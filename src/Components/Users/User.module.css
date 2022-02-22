@@ -1,0 +1,80 @@
+.dFlex {
+	display: flex;
+}
+
+.wrapper {
+	width: 100%;
+	color: #7C7D80;
+	font-weight: bold;
+	margin: 20px;
+}
+
+.flexColumn {
+	flex-direction: column;
+}
+
+.alignItemCenter {
+	align-items: center;
+}
+
+.justifyContentSpaceBetween {
+	justify-content: space-between;
+}
+
+.alignItemStart {
+	align-items: flex-start;
+}
+
+
+.avatar {
+	width: 75px;
+	padding-bottom: 20px;
+}
+
+
+.messageText {
+	padding: 15px;
+	border: 2px solid #CBCCD1;
+	border-radius: 10px;
+	width: 500px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.sendBtn {
+	background-color: #62BB4C;
+	border: 0;
+	padding: 8px 20px;
+	margin-bottom: 20px;
+	width: 100px;
+	color: white;
+	font-size: 15px;
+}
+
+.sendBtn:hover {
+	background-color: rgba(116, 190, 68, 0.8);
+	cursor: pointer;
+}
+
+.sendBtn:disabled {
+	background-color: #AABE9D;
+	cursor: pointer;
+}
+
+.selectedPage {
+	font-weight: bold;
+	background-color: rgb(247, 198, 0);
+}
+
+.selectedPage:hover {
+	font-weight: bold;
+	background-color: rgb(247, 198, 0, 0.8);
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}

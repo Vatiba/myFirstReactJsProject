@@ -1,0 +1,44 @@
+.profile{
+    grid-area: article;
+}
+
+.headImg img{
+    width: 100%;
+    height: 10rem;
+}
+
+
+.myPost{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.infoUser{
+    display: flex;
+}
+
+.userImg img{
+    padding-top: 20px;
+    width: 150px;
+}
+
+.userDesc{
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.sendBtn{
+    background-color: #62BB4C;
+    border: 0;
+    padding: 8px 20px;
+    margin-top: 10px;
+    width: 100px;
+    color: white;
+    font-size: 15px;
+}
+
+.sendBtn:hover{
+    background-color: rgba(116,190,68, 0.8);
+    cursor: pointer;
+}

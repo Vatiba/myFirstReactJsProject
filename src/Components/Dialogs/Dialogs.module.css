@@ -1,0 +1,95 @@
+body {
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+}
+
+.dialogs{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.dialogItems h2{
+    margin: 0 0 20px 0;
+}
+
+.dialogItems{
+    padding-left: 15px;
+    border-right: solid;
+    border-width: 1px;
+    border-color: #7C71A8;
+}
+
+.dialog{
+    padding-left: 15px;
+    padding-bottom: 25px;
+}
+
+.dialog a {
+    color: #878C9D;
+    font-weight: 500;
+}
+.dialog a:hover {
+    display: inline-block;
+    color: black;
+    transform: scale(1.2, 1.2);
+}
+
+.dialog::before{
+    margin-right: 25px;
+    content: '';
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #878C9D;
+}
+
+.messages{
+    width: 450px;
+    padding-left: 50px;
+}
+
+.message{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.messageText{
+    padding: 15px;
+    border: 2px solid #CBCCD1;
+    border-radius: 10px;
+}
+
+.active{
+    color: gold;
+}
+
+.imgAvatar{
+    padding-right: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgAvatar img {
+    width: 75px;
+    border-radius: 50%;
+}
+
+.sendBtn{
+    background-color: #62BB4C;
+    border: 0;
+    padding: 8px 20px;
+    margin-top: 10px;
+    width: 100px;
+    color: white;
+    font-size: 15px;
+}
+
+.sendBtn:hover{
+    background-color: rgba(116,190,68, 0.8);
+    cursor: pointer;
+}

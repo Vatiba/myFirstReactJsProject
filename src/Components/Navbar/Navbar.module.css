@@ -1,0 +1,27 @@
+.nav{
+    padding: 25px;
+    background-color: #72D358;
+    grid-area: nav;
+}
+
+.navItem{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.navItem a{
+    color: white;
+    text-decoration: none;
+}
+
+.navItem a.active{
+    color: gold;
+    text-decoration: none;
+}
+
+
+.navSetting{
+    padding-top: 50px;
+}

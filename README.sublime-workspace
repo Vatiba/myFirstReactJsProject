@@ -1,0 +1,882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"bar",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"cel",
+				"cellspacing"
+			],
+			[
+				"bo",
+				"bootstrap.min.css"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"con",
+				"controls"
+			],
+			[
+				"pl",
+				"player1"
+			],
+			[
+				"o",
+				"objectAge"
+			],
+			[
+				"ag",
+				"agamyrat"
+			],
+			[
+				"old",
+				"oldPassword"
+			],
+			[
+				"ol",
+				"oldLogin"
+			],
+			[
+				"re",
+				"readyArray"
+			],
+			[
+				"container",
+				"container-xl"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"li",
+				"lighter"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"aling",
+				"align-items"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backp",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"fun",
+				"func2"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"numb",
+				"numbers"
+			],
+			[
+				"nub",
+				"numbers"
+			],
+			[
+				"border",
+				"border-spacing\tproperty"
+			],
+			[
+				"padi",
+				"padding-right\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"n",
+				"number_2\tabc"
+			],
+			[
+				"nu",
+				"number_2\tabc"
+			],
+			[
+				"number",
+				"number_1\tabc"
+			],
+			[
+				"grid",
+				"grid-area\tproperty"
+			],
+			[
+				"kar",
+				"karta_user_show\tabc"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"fonsty",
+				"font-style\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tcolor"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"f",
+				"flex-wrap\tproperty"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"s",
+				"space\tabc"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"ne",
+				"new_post.php\t(index.php)"
+			],
+			[
+				"quer",
+				"query\tabc"
+			],
+			[
+				"res",
+				"res_sel_query\tabc"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_arr\tabc"
+			],
+			[
+				"aci",
+				"action\tAttr"
+			],
+			[
+				"ve",
+				"views\t(index.php)"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"req1",
+				"req1\trequire_once …"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"arr_values"
+			],
+			[
+				"arr_",
+				"arr_keys"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"val",
+				"valLowerCase"
+			],
+			[
+				"funt",
+				"function"
+			],
+			[
+				"x",
+				"translateX()\ttransform"
+			],
+			[
+				"background",
+				"background-origin\tproperty"
+			],
+			[
+				"fa",
+				"fa-search"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"t",
+				"translateY()\ttransform"
+			],
+			[
+				"bg-",
+				"bg-black"
+			],
+			[
+				"X",
+				"translateX()\ttransform"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"wi",
+				"width-160"
+			],
+			[
+				"bg",
+				"bg-white"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"can",
+				"change-color"
+			],
+			[
+				"cha",
+				"changeColor"
+			],
+			[
+				"change",
+				"change-color"
+			],
+			[
+				"da",
+				"daşary"
+			],
+			[
+				"dü",
+				"düşmek"
+			],
+			[
+				"öw",
+				"öwürmek"
+			],
+			[
+				"şeýle",
+				"şeýlemi"
+			],
+			[
+				"gel",
+				"geldiň"
+			],
+			[
+				"em",
+				"emma"
+			],
+			[
+				"tabş",
+				"tabşyrmak"
+			],
+			[
+				"gök",
+				"gök-önüm"
+			],
+			[
+				"ji",
+				"jigisi"
+			],
+			[
+				"jigi",
+				"jigim"
+			],
+			[
+				"w",
+				"words"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"wro",
+				"word"
+			],
+			[
+				"word",
+				"word"
+			],
+			[
+				"star",
+				"star-default"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"ba",
+				"bg-black"
+			],
+			[
+				"sele",
+				"select-size"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tite",
+				"title"
+			],
+			[
+				"icon",
+				"icon-yellow"
+			],
+			[
+				"heart",
+				"heart-red"
+			],
+			[
+				"sle",
+				"select-poem-div"
+			],
+			[
+				"id",
+				"index"
+			],
+			[
+				"draw",
+				"drawPoem"
+			],
+			[
+				"ser",
+				"search"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"wod",
+				"words"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"ine",
+				"innerHTML"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"h",
+				"highlight"
+			],
+			[
+				"en",
+				"entry_word"
+			],
+			[
+				"la",
+				"label_warning"
+			],
+			[
+				"rea",
+				"read_to_write_dictionary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"packageinstallpackage",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"I",
+				"Install Package Control"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			],
+			[
+				"in",
+				"Install Package Control"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"cls",
+			"6_tkinter_pack_frame.py",
+			"cls",
+			"c;s",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_5/Practice/index.html",
+		"/D/Project/ReactJS/my-app/src/Components/Users/UsersContainer.jsx",
+		"/D/Project/ReactJS/my-app/src/Redux/usersReducer.js",
+		"/D/Project/ReactJS/my-app/src/Components/Users/Users.jsx",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_15/TEMPLATE/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_15/TEMPLATE/js/bootstrap.js",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_15/TEMPLATE/css/bootstrap.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_15/Practice/HW16/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_15/Practice/Class/css/bootstrap.min.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_4/practice/css/style.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_4/practice/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_4/practice2/index.html",
+		"/F/Mine Works/2 work/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_14/Lesson_16/ownpractice/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_14/Lesson_16/Practice/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_2/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_3/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/html, css, js/Lesson_1/index.html",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_32/Practice/oyun_baslasyn.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_32/Practice/oyun.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_14/Person.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_13/Person.py",
+		"/C/Users/Bezirgen/Desktop/inddex.html",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_30/Practice/user.py",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/Lesson_2/2. js-syntax/js-syntax/js/script.js",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_29/Practice/test.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_29/Practice/homework.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_27/Practice/naharlar.py",
+		"/C/Users/Bezirgen/Desktop/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_13/byAgamyrat.py",
+		"/F/Lesson_13/Person.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_12/commandN.py",
+		"/C/Users/Bezirgen/Downloads/Telegram Desktop/yolov4-deepsort-master/yolov4-deepsort-master/tools/generate_detections.py",
+		"/I/Уроки/HTML CSS JavaScript/Lesson/Lesson GN/Lesson_16/Ozbashdak ish/css/bootstrap.min.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_12/note_pad.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_23/Practice/2301_homework.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_12/__pycache__/commandN.cpython-37.pyc",
+		"/C/Users/Bezirgen/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/ttk.py",
+		"/C/Users/Bezirgen/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/dialog.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_12/question.py",
+		"/F/NotePad/notepad.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/1.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/__pycache__/myModule.cpython-37.pyc",
+		"/C/myModule.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/login.py",
+		"/C/OpenServer/domains/hoshamay/config/init.php",
+		"/C/OpenServer/domains/hoshamay/vendor/hoshomay/core/base/View.php",
+		"/C/OpenServer/domains/hoshamay/config/config_db.php",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/Lesson_2/1. js-start/js-start/js/script.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-operators/js-operators/js/script.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-datatypes/js-datatypes/js/script.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-variables/js-variables/js/script.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-syntax/js-syntax/js/script.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-syntax/js-syntax/css/style.css",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-start/js-start/index.html",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/js-start/js-start/js/script.js",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_13/New folder/css/bootstrap.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_13/New folder/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_13/New folder/css/custom.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_13/Source/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.min.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_13/Source/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_12/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_12/css/custom_style.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Project1301/css/myStyle.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Project1301/myIndex.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_13/Practice/css/bootstrap.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/note_pad.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/my.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2106_seek.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2101_readline.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2107_exam.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2105_okamak-we-yazmak.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2104_pozman-yazmak.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2103_with-open.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_11/Practice/2102_write.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_23/Practice/sansis.py",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/New folder/index.html",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/New folder/problem.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/New folder/custom.js",
+		"/C/Users/Bezirgen/Desktop/Lesson_3/New folder/aaa.js",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Project1303/index.html",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_21/Practice/2107_exam.py",
+		"/I/Уроки/HTML CSS JavaScript/Lesson/Lesson GN/Lesson_14/Practice/01_image-sizes.html",
+		"/I/Уроки/HTML CSS JavaScript/Lesson/Lesson GN/Lesson_15/Practice/css/bootstrap.css",
+		"/I/Уроки/HTML CSS JavaScript/Lesson/Lesson GN/Lesson_14/Practice/10_background-shorthand.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Project1301/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Project1301/css/960_12_col.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/css/myStyle.css",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/16_grid-layout.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/14_fixed-width-layout.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/13_columns-three.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/12_columns-two.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/08_using-float.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/11_float-solution.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/10_float-problem.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/09_clear.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/07_z-index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/06_without-z-index.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/05_float.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/04_position-fixed.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/03_position-absolute.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/02_position-relative.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_2/Lesson_11/new/Practice/01_normal-flow.html",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_10/practice/try_except_example.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_19/Practice/1903_san_uzynlyk.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_19/Practice/1902_kopeltmek_sanlar.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_19/Practice/1908_randsum.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_18/Practice/1801_rooot.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_19/Practice/1901_sanlar_gosmak.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_19/Slides/19.1-try-except.pptx",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Practice/1705_global.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Practice/1702_salam-keyword.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Practice/1704_a.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Practice/1703_i.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_10/practice/1.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Practice/1701_salam.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_9/functionChoice.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_9/payboxByAgamyrat.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_9/1.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_9/2.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_10/battleship.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Homework/tictoctoe2.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Homework/tictoctoe3.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Homework/tictoctoe4.py",
+		"/I/Уроки/Уроки/Python/Python lesson/Lesson_17/Homework/tictoctoe1.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_9/forReading/1302_sozluk.py",
+		"/C/Users/Bezirgen/Desktop/Lessons_1/Lesson_9/forReading/1303_keys.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"<video",
+			"oldPassword",
+			" ",
+			"intro",
+			"position: relative;\n\t\t\t\ttop: 70px;\n\t\t\t\tleft: 70px;",
+			"left",
+			"2",
+			"enumerate",
+			"showgrid",
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"1_class_car.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
